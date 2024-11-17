@@ -1,3 +1,4 @@
+#!/bin/bash
 sudo apt install nala
 sudo nala install curl git docker
 curl -fsSL https://ollama.com/install.sh | sh
